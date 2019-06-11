@@ -10,4 +10,13 @@ body {
     width: 90%;
     margin: 0 auto;
     text-align: center;
-}s
+}
+.quote {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+}
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
